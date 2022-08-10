@@ -22,3 +22,7 @@
 #topo ul li:hover {
     color: white;
 }
+#topo a:visited{
+    text-decoration: none;
+    color: white;
+}
